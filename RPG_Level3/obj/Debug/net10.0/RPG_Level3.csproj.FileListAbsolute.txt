@@ -1,0 +1,14 @@
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\bin\Debug\net10.0\RPG_Level3.exe
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\bin\Debug\net10.0\RPG_Level3.deps.json
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\bin\Debug\net10.0\RPG_Level3.runtimeconfig.json
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\bin\Debug\net10.0\RPG_Level3.dll
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\bin\Debug\net10.0\RPG_Level3.pdb
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\RPG_Level3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\RPG_Level3.AssemblyInfoInputs.cache
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\RPG_Level3.AssemblyInfo.cs
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\RPG_Level3.csproj.CoreCompileInputs.cache
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\RPG_Level3.dll
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\refint\RPG_Level3.dll
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\RPG_Level3.pdb
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\RPG_Level3.genruntimeconfig.cache
+C:\Users\linge\OneDrive\Desktop\RPG_Level3\obj\Debug\net10.0\ref\RPG_Level3.dll

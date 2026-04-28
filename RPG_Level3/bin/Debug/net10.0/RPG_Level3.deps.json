@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RPG_Level3/1.0.0": {
+        "runtime": {
+          "RPG_Level3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPG_Level3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
